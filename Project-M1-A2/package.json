@@ -1,0 +1,15 @@
+{
+  "name": "project-m1-a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Wyiss/Module-1-Assignment-2"
+  },
+  "author": "Wyatt C",
+  "license": "ISC"
+}
